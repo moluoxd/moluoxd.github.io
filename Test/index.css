@@ -1,0 +1,22 @@
+.main-image{
+    max-width : 500px;
+    max-height : 500px;
+}
+.small-img{
+    max-width : 200px;
+    max-height : 200px;
+    box-sizing: border-box;
+}
+.big-image{
+    height : 520px;
+}
+.text{
+    height :20px;
+}
+.body{
+    background-color :cornflowerblue;
+}
+.small-img:hover{
+    border: 2px solid plum;
+    cursor: pointer;
+}
